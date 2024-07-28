@@ -1,0 +1,11 @@
+D:\Programming\ITMO\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\bin\Debug\CSDesktopApp.WinForm,LaboratoryWork1-4-MdiApplication.exe.config
+D:\Programming\ITMO\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\bin\Debug\CSDesktopApp.WinForm,LaboratoryWork1-4-MdiApplication.exe
+D:\Programming\ITMO\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\bin\Debug\CSDesktopApp.WinForm,LaboratoryWork1-4-MdiApplication.pdb
+D:\Programming\ITMO\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\obj\Debug\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip.csproj.AssemblyReference.cache
+D:\Programming\ITMO\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\obj\Debug\CSDesktopApp.WinForm_LaboratoryWork1_4_MdiApplication.ChildForm.resources
+D:\Programming\ITMO\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\obj\Debug\CSDesktopApp.WinForm_LaboratoryWork1_4_MdiApplication.ParentForm.resources
+D:\Programming\ITMO\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\obj\Debug\CSDesktopApp.WinForm_LaboratoryWork1_4_MdiApplication.Properties.Resources.resources
+D:\Programming\ITMO\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\obj\Debug\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip.csproj.GenerateResource.cache
+D:\Programming\ITMO\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\obj\Debug\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip.csproj.CoreCompileInputs.cache
+D:\Programming\ITMO\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\obj\Debug\CSDesktopApp.WinForm,LaboratoryWork1-4-MdiApplication.exe
+D:\Programming\ITMO\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\CSDesktopApp.WinForm,LaboratoryWork2-4-StatusStrip\obj\Debug\CSDesktopApp.WinForm,LaboratoryWork1-4-MdiApplication.pdb
