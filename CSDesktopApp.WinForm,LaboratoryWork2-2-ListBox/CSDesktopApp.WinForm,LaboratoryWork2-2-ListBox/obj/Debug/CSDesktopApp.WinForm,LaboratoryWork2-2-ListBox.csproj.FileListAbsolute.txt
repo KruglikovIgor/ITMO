@@ -1,0 +1,10 @@
+D:\Programming\ITMO\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox\bin\Debug\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox.exe.config
+D:\Programming\ITMO\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox\bin\Debug\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox.exe
+D:\Programming\ITMO\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox\bin\Debug\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox.pdb
+D:\Programming\ITMO\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox\obj\Debug\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox.csproj.AssemblyReference.cache
+D:\Programming\ITMO\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox\obj\Debug\CSDesktopApp.WinForm_LaboratoryWork2_2_ListBox.Form1.resources
+D:\Programming\ITMO\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox\obj\Debug\CSDesktopApp.WinForm_LaboratoryWork2_2_ListBox.Properties.Resources.resources
+D:\Programming\ITMO\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox\obj\Debug\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox.csproj.GenerateResource.cache
+D:\Programming\ITMO\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox\obj\Debug\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox.csproj.CoreCompileInputs.cache
+D:\Programming\ITMO\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox\obj\Debug\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox.exe
+D:\Programming\ITMO\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox\obj\Debug\CSDesktopApp.WinForm,LaboratoryWork2-2-ListBox.pdb
