@@ -1,0 +1,24 @@
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.csprojAssemblyReference.cache
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.CoreCompileInputs.cache
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
+C:\Programming\Calc_Starter (05.08.2024)\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+C:\Programming\Calc_Starter (05.08.2024)\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+C:\Programming\Calc_Starter (05.08.2024)\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.AssemblyReference.cache
+C:\Programming\Calc_Starter (05.08.2024)\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.CoreCompileInputs.cache
+C:\Programming\Calc_Starter (05.08.2024)\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+C:\Programming\Calc_Starter (05.08.2024)\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
+D:\Programming\ITMO\Calc_Starter (09.08.2024)\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+D:\Programming\ITMO\Calc_Starter (09.08.2024)\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+D:\Programming\ITMO\Calc_Starter (09.08.2024)\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.AssemblyReference.cache
+D:\Programming\ITMO\Calc_Starter (09.08.2024)\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.CoreCompileInputs.cache
+D:\Programming\ITMO\Calc_Starter (09.08.2024)\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+D:\Programming\ITMO\Calc_Starter (09.08.2024)\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
+D:\Programming\ITMO\Calc_Starter (10.08.2024)\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+D:\Programming\ITMO\Calc_Starter (10.08.2024)\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+D:\Programming\ITMO\Calc_Starter (10.08.2024)\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.AssemblyReference.cache
+D:\Programming\ITMO\Calc_Starter (10.08.2024)\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.CoreCompileInputs.cache
+D:\Programming\ITMO\Calc_Starter (10.08.2024)\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+D:\Programming\ITMO\Calc_Starter (10.08.2024)\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
