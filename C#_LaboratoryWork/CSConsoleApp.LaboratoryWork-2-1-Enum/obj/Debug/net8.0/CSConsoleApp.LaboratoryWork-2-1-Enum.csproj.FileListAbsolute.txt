@@ -1,0 +1,14 @@
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-1-Enum\bin\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-1-Enum.exe
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-1-Enum\bin\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-1-Enum.deps.json
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-1-Enum\bin\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-1-Enum.runtimeconfig.json
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-1-Enum\bin\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-1-Enum.dll
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-1-Enum\bin\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-1-Enum.pdb
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-1-Enum\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-1-Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-1-Enum\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-1-Enum.AssemblyInfoInputs.cache
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-1-Enum\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-1-Enum.AssemblyInfo.cs
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-1-Enum\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-1-Enum.csproj.CoreCompileInputs.cache
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-1-Enum\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-1-Enum.dll
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-1-Enum\obj\Debug\net8.0\refint\CSConsoleApp.LaboratoryWork-2-1-Enum.dll
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-1-Enum\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-1-Enum.pdb
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-1-Enum\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-1-Enum.genruntimeconfig.cache
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-1-Enum\obj\Debug\net8.0\ref\CSConsoleApp.LaboratoryWork-2-1-Enum.dll

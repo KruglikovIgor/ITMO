@@ -1,0 +1,14 @@
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-2-StructType\bin\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-2-StructType.exe
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-2-StructType\bin\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-2-StructType.deps.json
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-2-StructType\bin\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-2-StructType.runtimeconfig.json
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-2-StructType\bin\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-2-StructType.dll
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-2-StructType\bin\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-2-StructType.pdb
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-2-StructType\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-2-StructType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-2-StructType\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-2-StructType.AssemblyInfoInputs.cache
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-2-StructType\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-2-StructType.AssemblyInfo.cs
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-2-StructType\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-2-StructType.csproj.CoreCompileInputs.cache
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-2-StructType\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-2-StructType.dll
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-2-StructType\obj\Debug\net8.0\refint\CSConsoleApp.LaboratoryWork-2-2-StructType.dll
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-2-StructType\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-2-StructType.pdb
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-2-StructType\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-2-2-StructType.genruntimeconfig.cache
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-2-2-StructType\obj\Debug\net8.0\ref\CSConsoleApp.LaboratoryWork-2-2-StructType.dll
