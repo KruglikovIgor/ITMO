@@ -1,0 +1,14 @@
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-4-DivideIt\CSConsoleApp.LaboratoryWork-1-4-DivideIt\bin\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-4-DivideIt.exe
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-4-DivideIt\CSConsoleApp.LaboratoryWork-1-4-DivideIt\bin\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-4-DivideIt.deps.json
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-4-DivideIt\CSConsoleApp.LaboratoryWork-1-4-DivideIt\bin\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-4-DivideIt.runtimeconfig.json
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-4-DivideIt\CSConsoleApp.LaboratoryWork-1-4-DivideIt\bin\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-4-DivideIt.dll
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-4-DivideIt\CSConsoleApp.LaboratoryWork-1-4-DivideIt\bin\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-4-DivideIt.pdb
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-4-DivideIt\CSConsoleApp.LaboratoryWork-1-4-DivideIt\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-4-DivideIt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-4-DivideIt\CSConsoleApp.LaboratoryWork-1-4-DivideIt\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-4-DivideIt.AssemblyInfoInputs.cache
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-4-DivideIt\CSConsoleApp.LaboratoryWork-1-4-DivideIt\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-4-DivideIt.AssemblyInfo.cs
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-4-DivideIt\CSConsoleApp.LaboratoryWork-1-4-DivideIt\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-4-DivideIt.csproj.CoreCompileInputs.cache
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-4-DivideIt\CSConsoleApp.LaboratoryWork-1-4-DivideIt\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-4-DivideIt.dll
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-4-DivideIt\CSConsoleApp.LaboratoryWork-1-4-DivideIt\obj\Debug\net8.0\refint\CSConsoleApp.LaboratoryWork-1-4-DivideIt.dll
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-4-DivideIt\CSConsoleApp.LaboratoryWork-1-4-DivideIt\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-4-DivideIt.pdb
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-4-DivideIt\CSConsoleApp.LaboratoryWork-1-4-DivideIt\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-4-DivideIt.genruntimeconfig.cache
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-4-DivideIt\CSConsoleApp.LaboratoryWork-1-4-DivideIt\obj\Debug\net8.0\ref\CSConsoleApp.LaboratoryWork-1-4-DivideIt.dll

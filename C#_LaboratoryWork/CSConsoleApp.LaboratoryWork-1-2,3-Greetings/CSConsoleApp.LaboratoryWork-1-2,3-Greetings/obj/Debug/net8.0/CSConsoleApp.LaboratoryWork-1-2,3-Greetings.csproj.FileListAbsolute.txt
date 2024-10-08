@@ -1,0 +1,14 @@
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\bin\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-2,3-Greetings.exe
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\bin\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-2,3-Greetings.deps.json
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\bin\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-2,3-Greetings.runtimeconfig.json
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\bin\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-2,3-Greetings.dll
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\bin\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-2,3-Greetings.pdb
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-2,3-Greetings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-2,3-Greetings.AssemblyInfoInputs.cache
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-2,3-Greetings.AssemblyInfo.cs
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-2,3-Greetings.csproj.CoreCompileInputs.cache
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-2,3-Greetings.dll
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\obj\Debug\net8.0\refint\CSConsoleApp.LaboratoryWork-1-2,3-Greetings.dll
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-2,3-Greetings.pdb
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\obj\Debug\net8.0\CSConsoleApp.LaboratoryWork-1-2,3-Greetings.genruntimeconfig.cache
+D:\Programming\ITMO\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\CSConsoleApp.LaboratoryWork-1-2,3-Greetings\obj\Debug\net8.0\ref\CSConsoleApp.LaboratoryWork-1-2,3-Greetings.dll
