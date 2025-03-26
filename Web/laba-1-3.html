@@ -1,0 +1,16 @@
+	
+	<script>
+			var s = prompt("Введите число", "");
+			var x = parseInt(s)
+			
+		 function daysToFinish(x)
+		 {
+		 var a=x%10;
+		 if (a==1) return " день.";
+		 else
+		 if (a==2||a==3||a==4) return " дня."
+		 else return " дней.";
+		 }		 
+		 document.write("До конца вашей учебы остается "+ x+ daysToFinish(x));		
+		
+	</script>
