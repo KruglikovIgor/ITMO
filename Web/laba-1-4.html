@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Пример класса в JavaScript</title>
+</head>
+<body>
+    <h1>Создание и использование объектов</h1>
+    <script>
+        function  NewClass (title, url)
+		{
+                this.title = title; 
+                this.url = url;     
+		this.show = show;		
+		 function show() 
+			{
+				document.write(this.title); 
+				document.write(this.url); 
+			}
+        }
+        var myObject = new NewClass("Заголовок   ", "Адрес: https://vk.com");
+        myObject.show();
+    </script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ru">
+<body>
+    <h1>Обработка событий в JavaScript</h1>
+   <script>
+ 	var smallsize = "300"; //Размер картинки  
+	var bigsize = "600"; //Размер увеличенной картинки
+	function changeSizeImage(im) 
+	{
+	  if(im.height == bigsize) im.height = smallsize;
+	  else im.height = bigsize;
+	}
+	</script>	
+	<img src="lions.jpg" height="300" onclick="changeSizeImage(this)" />
+</body>
+</html>
