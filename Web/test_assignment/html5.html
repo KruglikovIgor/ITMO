@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brands - Cars</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Курс «Разработка Web-приложений на HTML5, CSS3, JavaScript»</h1>
+       <h2>Учебный сайт</h2>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="html5.html">Canvas API</a></li>
+                <li><a href="css.html">CSS</a></li>
+                <li><a href="js.html">Web Storage</a></li>
+                <li><a href="contact.html">Contacts</a></li>
+            </ul>
+        </nav>
+ 		<script type="text/javascript">
+		  function Draw() {
+const canvas = document.getElementById("canvas");
+const ctx = canvas.getContext("2d");
+
+ctx.fillStyle = "green";
+ctx.fillRect(0, 0, 800, 400);
+
+ctx.fillStyle = "red";
+ctx.font = "italic "+50+"pt Arial ";
+ctx.fillText("Canvas может", 5,150);
+ctx.fillText("рисовать текст.", 5,250);
+
+		 }
+		 
+		 function ClearDraw() {
+            var context = document.getElementById('canvas').getContext('2d');
+            context.clearRect(0, 0, 800, 400);
+          }
+		</script>
+    </header>
+
+<main>
+			<h2>Применение Canvas API (наведите курсор на поле):</h2>
+			<canvas id="canvas" width="800" height="400" style="border:4px double black;" onMouseOver="Draw();" onMouseOut="ClearDraw();"/>
+
+</main>
+
+    <footer>
+        <p>&copy; Kruglikov I.V. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>

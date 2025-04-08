@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>History</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Курс «Разработка Web-приложений на HTML5, CSS3, JavaScript»</h1>
+       <h2>Учебный сайт</h2>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="html5.html">Canvas API</a></li>
+                <li><a href="css.html">CSS</a></li>
+                <li><a href="js.html">Web Storage</a></li>
+                <li><a href="contact.html">Contacts</a></li>
+            </ul>
+        </nav>
+<script>
+function saveData() {
+    // Получаем значения текстовых полей
+    var localData = document.getElementById("localData").value;
+    var sessionData = document.getElementById("sessionData").value;
+
+    // Сохраняем текст, введенный в текстовом поле, в локальном хранилище
+    localStorage["localData"] = localData;
+    
+    // Сохраняем текст, введенный в текстовом поле, в хранилище сессий
+    sessionStorage["sessionData"] = sessionData;
+}
+
+function loadData() {
+    // Загружаем сохраненные данные из хранилищ
+    var localData = localStorage["localData"];    
+    var sessionData = sessionStorage["sessionData"];
+
+    // Отображаем эти данные в текстовых полях
+    if (localData != null) {
+        document.getElementById("localData").value = localData;
+    }
+    if (sessionData != null) {
+        document.getElementById("sessionData").value = sessionData;
+    }
+}	
+</script>	
+    </header>
+
+<main>
+<fieldset>
+      <legend>Веб-хранилище</legend>
+      <label for="localData">Этот текст сохранится в локальном хранилище:</label>
+      <input id="localData"><br>
+      <label for="sessionData">Этот текст сохранится в хранилище данных сессии:</label>
+      <input id="sessionData">
+  </fieldset>
+  <div>
+      <button onclick="saveData()">Сохранить</button>
+      <button onclick="loadData()">Загрузить</button>
+  </div>
+
+</main>
+
+    <footer>
+        <p>&copy; Kruglikov I.V. All rights reserved.</p>
+    </footer>
+</body>
+</html>

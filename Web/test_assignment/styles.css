@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+	background-color:SkyBlue;
+}
+
+header {
+    text-align: center;
+	background-color:DeepSkyBlue;
+    color: LemonChiffon;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+	 color: red;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 40px;
+}
+
+footer {
+    text-align: center;
+	margin-top: 10%;
+	bottom: 0; 
+	width: 100%;
+	font-size: 15pt;
