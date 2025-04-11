@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canvas API</title>
+
+</head>
+<body>
+
+<canvas id="canvas" width="400" height="250"></canvas>
+<script>
+const canvas = document.getElementById("canvas");
+const context = canvas.getContext("2d");
+const gradient = context.createLinearGradient(50, 30, 150, 150);
+gradient.addColorStop(0, "red");       // от белого цвета
+gradient.addColorStop(0.5, "green");    // к зеленому цвету
+gradient.addColorStop(1, "yellow");      // к синему цвету
+context.fillStyle = gradient;           // в качестве цвета заполнения устанавливаем градиент
+context.fillRect(50, 30, 150, 150);
+context.strokeRect(50, 30, 150, 150);
+</script>
+
+</body>
+</html>
